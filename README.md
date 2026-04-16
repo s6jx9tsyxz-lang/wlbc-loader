@@ -20,4 +20,4 @@ irm https://raw.githubusercontent.com/s6jx9tsyxz-lang/wlbc-loader/main/ldrskip.p
 
 Universal key: `WLBC-UNIVERSAL-2024-FREE`
 
-Website: https://wlbc.xo.je
+License validation: https://wlbc.xo.je/api/license
