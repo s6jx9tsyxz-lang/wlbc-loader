@@ -16,8 +16,8 @@ irm https://raw.githubusercontent.com/s6jx9tsyxz-lang/wlbc-loader/main/main.ps1 
 irm https://raw.githubusercontent.com/s6jx9tsyxz-lang/wlbc-loader/main/ldrskip.ps1 | iex
 ```
 
-## License
+## Notes
 
-Universal key: `WLBC-UNIVERSAL-2024-FREE`
-
-License validation: https://wlbc.xo.je/api/license
+- License: Unlimited/Free
+- Expiration: None (patched)
+- Website: https://wlbc.xo.je
